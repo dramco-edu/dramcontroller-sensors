@@ -1,0 +1,26 @@
+Partlist exported from C:/Users/jarne/OneDrive - KU Leuven/Onderwijs/Ingenieursbeleving 2/Dramcontroller/Hardware/Sensors/Microphone_Sensor/design.sch at 07/03/2022 13:32
+
+Part Value             Device              Package          Description                                                                                       
+C1                     CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C2   10u               CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C3   10u               CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C4   100n              CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C5   100n              CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C6                     CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C7                     CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C8                     CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+C9   100n              CAP_CERAMIC0603MINI 0603-MINI        Ceramic Capacitors                                                                                
+IC1  TLV341IDCKR       TLV341IDCKR         SOT65P210X110-6N                                                                                                   
+IC2  TLV341IDCKR       TLV341IDCKR         SOT65P210X110-6N                                                                                                   
+IC3  MIC5365-1.8YD5-TR VREG_SOT23-5        SOT23-5          SOT23-5 Fixed Voltage Regulators                                                                  
+IC4  VM1000            VM1000              VM1000                                                                                                             
+K1   610006243021      610006243021        610006243021     WR-PHD 2.54mm SMT Dual Socket Header Bottom Entry, 6 Pins=>Code : Con_BTB_SHD_2.54_2_610006243021 
+K2   610006243021      610006243021        610006243021     WR-PHD 2.54mm SMT Dual Socket Header Bottom Entry, 6 Pins=>Code : Con_BTB_SHD_2.54_2_610006243021 
+LED1                   LED0805             CHIPLED_0805     LED                                                                                               
+R1                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R2                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R3   470               RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R4                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R5                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R6                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
+R7                     RESISTOR0603MINI    0603-MINI        Resistors                                                                                         
